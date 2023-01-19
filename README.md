@@ -1,5 +1,13 @@
 # Reading-Notes
 
+如何更新笔记内容：
+
+```bash
+git add *
+git commit -m "..."
+git push -u origin master
+```
+
 [git的基本操作](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 [创建仓库并上传](https://www.liaoxuefeng.com/wiki/896043488029600)  
